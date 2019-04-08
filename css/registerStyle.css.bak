@@ -1,0 +1,18 @@
+
+#submitPhoto{
+         width:100px;
+	}
+
+#code{
+        width:30%;
+	}
+#send_code{
+        
+		color:white;
+		background:rgb(225,87,72);
+		font-size:16px;
+		height:43px;
+		width:110px;
+		border-radius:10px;
+		cursor:pointer;
+	}
